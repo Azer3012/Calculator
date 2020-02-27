@@ -1,0 +1,40 @@
+.container {
+  margin-top: 30px;
+}
+
+.text {
+  width: 100%;
+  background: black;
+  padding: 10px 0;
+  border: none;
+  color: white;
+}
+
+.col-3 {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.delete {
+  background: red;
+}
+
+.equal {
+  background: green;
+}
+
+.plus {
+  background: #a04510;
+}
+
+.col-12 {
+  padding: 0 !important;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  text-transform: capitalize;
+  padding: 20px;
+}
+/*# sourceMappingURL=main.css.map */
